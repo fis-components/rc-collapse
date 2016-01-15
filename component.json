@@ -1,0 +1,14 @@
+{
+    "name": "rc-collapse",
+    "description": "rc-collapse ui component for react",
+    "repos": "https://github.com/react-component/collapse.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "2.x",
+        "rc-animate": "2.x",
+        "velocity-animate": "1.x"
+    },
+    "version": "1.4.4"
+}
